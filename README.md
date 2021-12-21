@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BenWestwood88
-- 👀 I’m interested in ...finding web scrapers from around the 🌍
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in finding web scrapers from around the 🌍 who have a solid understanding of Scrapy
 - 📫 How to reach me ... b.westwood@heni.com
 
 <!---
